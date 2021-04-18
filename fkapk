@@ -1,0 +1,14 @@
+[1mdiff --git a/test.py b/test.py[m
+[1mindex 4f005aa..1b757aa 100644[m
+[1m--- a/test.py[m
+[1m+++ b/test.py[m
+[36m@@ -6,4 +6,6 @@[m [mfor i in range(10):[m
+     for j in range(20):[m
+         pts.append(rg.Point3d(20,20,30))[m
+ [m
+[31m-a = pts[m
+\ No newline at end of file[m
+[32m+[m[32ma = pts[m
+[32m+[m
+[32m+[m[32m10 + 10[m
+\ No newline at end of file[m
